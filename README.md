@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Robotics MSc. at ETH Zürich
+- 🔭 Broadly interested in Reinforcement Learning, Controls, Robot Perception, and Simulation
+- 💬 Learn more at my [personal website](https://rbharadwaj9.github.io)
